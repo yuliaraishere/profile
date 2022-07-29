@@ -1,0 +1,38 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #c9eee1;
+}
+#projects {
+  background-color: #c9eee1;
+}
+#projects h2 {
+  margin-bottom: 2rem;
+}
+#contact {
+}
+footer p {
+  padding-left: 25px;
+  position: absolute;
+  font-size: 20px;
+}
+section {
+  padding-top: 5rem;
+}
+.sm1 {
+  width: 5%;
+}
+
+.sm2 {
+  width: 3%;
+}
+
+.sm3 {
+  width: 5%;
+}
+footer {
+  display: flex;
+}
+.sosmed {
+  text-align: right;
+  padding-right: 25px;
+}
